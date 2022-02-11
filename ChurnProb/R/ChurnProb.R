@@ -14,3 +14,4 @@ Churn_prob_function <- function(y, x){
   }
 }
 
+#test
